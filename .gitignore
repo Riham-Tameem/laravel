@@ -1,0 +1,31 @@
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+public/js
+public/css
+public/mix-manifest.json
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2a93fde1d6a3284d6229c4a51bd3a45b8a90ac3d
+/.idea/
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
